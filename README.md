@@ -59,6 +59,7 @@ Igual que en cualquier lenguaje de programación, existen variables en las **Bas
 - **Decimal**
 
 **Esquema** = Es la estructura lógica que va a tener una Base de Datos.
+
 **Instancia** = Contenido de partículas que tiene una Base de Datos en un instante de tiempo.
 
 ¿Qué debemos esperar para modelar una **Base de Datos**?
